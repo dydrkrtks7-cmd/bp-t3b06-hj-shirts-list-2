@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://yeongdeungpo-coin-karaoke-note.best-samseong-hotplace.xyz/sitemap.xml
+Sitemap: https://yeongdeungpo-coin-karaoke-note.best-samseong-hotplace.xyz/sitemap-pages.xml
